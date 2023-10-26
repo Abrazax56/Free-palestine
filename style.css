@@ -1,0 +1,265 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Great+Vibes&family=Josefin+Sans:wght@200;300;400;500;600;700;800;900;1000&family=Mulish:wght@200;300;400;500;600;700;800;900;1000&family=Noto+Sans+Indic+Siyaq+Numbers&family=Outfit:wght@200;300;400;500;600;700;800;900;1000&family=Poppins&display=swap');
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  background-image: url('og.png');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  width: 100%;
+  min-height: 100vh;
+  padding: 4rem 0;
+  box-sizing: border-box;
+  flex-direction: column;
+  overflow: hidden;
+}
+center {
+  width: 100%;
+}
+h1 {
+  color: #222;
+  font-size: 2rem;
+  font-family: 'Outfit', Sans-Serif;
+  text-align: center;
+}
+h1 span:nth-child(1) {
+  animation: animate .8s infinite linear;
+}
+h1 span:nth-child(2) {
+  animation: animate2 .8s infinite linear;
+}
+h1 span:nth-child(3) {
+  animation: animate3 .8s infinite linear;
+}
+h1 span:nth-child(4) {
+  animation: animate4 .8s infinite linear;
+}
+h1 span:nth-child(5) {
+  animation: animate5 .8s infinite linear;
+}
+h1 span:nth-child(6) {
+  animation: animate6 .8s infinite linear;
+}
+h1 span:nth-child(7) {
+  animation: animate7 .8s infinite linear;
+}
+h1 span:nth-child(8) {
+  animation: animate8 .8s infinite linear;
+}
+h1 span:nth-child(9) {
+  animation: animate9 .8s infinite linear;
+}
+h1 span:nth-child(10) {
+  animation: animate10 .8s infinite linear;
+}
+h1 span:nth-child(11) {
+  animation: animate11 .8s infinite linear;
+}
+h1 span:nth-child(12) {
+  animation: animate12 .8s infinite linear;
+}
+h1 span:nth-child(13) {
+  animation: animate13 .8s infinite linear;
+}
+h1 span:nth-child(14) {
+  animation: animate14 .8s infinite linear;
+}
+@keyframes animate {
+  20% {
+    color: white;
+    text-shadow: 0 0 5px rgba(255, 255, 255, .4);
+  }
+  21% {
+    color: #222;
+    text-shadow: none;
+  }
+  100% {
+    color: #222;
+    text-shadow: none;
+  }
+}
+@keyframes animate2 {
+  25% {
+    color: white;
+    text-shadow: 0 0 5px rgba(255, 255, 255, .4);
+  }
+  26% {
+    color: #222;
+    text-shadow: none;
+  }
+  100% {
+    color: #222;
+    text-shadow: none;
+  }
+}
+@keyframes animate3 {
+  30% {
+    color: white;
+    text-shadow: 0 0 5px rgba(255, 255, 255, .4);
+  }
+  31% {
+    color: #222;
+    text-shadow: none;
+  }
+  100% {
+    color: #222;
+    text-shadow: none;
+  }
+}
+@keyframes animate4 {
+  35% {
+    color: white;
+    text-shadow: 0 0 5px rgba(255, 255, 255, .4);
+  }
+  36% {
+    color: #222;
+    text-shadow: none;
+  }
+  100% {
+    color: #222;
+    text-shadow: none;
+  }
+}
+@keyframes animate5 {
+  40% {
+    color: white;
+    text-shadow: 0 0 5px rgba(255, 255, 255, .4);
+  }
+  41% {
+    color: #222;
+    text-shadow: none;
+  }
+  100% {
+    color: #222;
+    text-shadow: none;
+  }
+}
+@keyframes animate6 {
+  45% {
+    color: white;
+    text-shadow: 0 0 5px rgba(255, 255, 255, .4);
+  }
+  46% {
+    color: #222;
+    text-shadow: none;
+  }
+  100% {
+    color: #222;
+    text-shadow: none;
+  }
+}
+@keyframes animate7 {
+  50% {
+    color: white;
+    text-shadow: 0 0 5px rgba(255, 255, 255, .4);
+  }
+  51% {
+    color: #222;
+    text-shadow: none;
+  }
+  100% {
+    color: #222;
+    text-shadow: none;
+  }
+}
+@keyframes animate8 {
+  55% {
+    color: white;
+    text-shadow: 0 0 5px rgba(255, 255, 255, .4);
+  }
+  56% {
+    color: #222;
+    text-shadow: none;
+  }
+  100% {
+    color: #222;
+    text-shadow: none;
+  }
+}
+@keyframes animate9 {
+  60% {
+    color: white;
+    text-shadow: 0 0 5px rgba(255, 255, 255, .4);
+  }
+  61% {
+    color: #222;
+    text-shadow: none;
+  }
+  100% {
+    color: #222;
+    text-shadow: none;
+  }
+}
+@keyframes animate10 {
+  65% {
+    color: white;
+    text-shadow: 0 0 5px rgba(255, 255, 255, .4);
+  }
+  66% {
+    color: #222;
+    text-shadow: none;
+  }
+  100% {
+    color: #222;
+    text-shadow: none;
+  }
+}
+@keyframes animate11 {
+  70% {
+    color: white;
+    text-shadow: 0 0 5px rgba(255, 255, 255, .4);
+  }
+  71% {
+    color: #222;
+    text-shadow: none;
+  }
+  100% {
+    color: #222;
+    text-shadow: none;
+  }
+}
+@keyframes animate12 {
+  75% {
+    color: white;
+    text-shadow: 0 0 5px rgba(255, 255, 255, .4);
+  }
+  76% {
+    color: #222;
+    text-shadow: none;
+  }
+  100% {
+    color: #222;
+    text-shadow: none;
+  }
+}
+@keyframes animate13 {
+  80% {
+    color: white;
+    text-shadow: 0 0 5px rgba(255, 255, 255, .4);
+  }
+  81% {
+    color: #222;
+    text-shadow: none;
+  }
+  100% {
+    color: #222;
+    text-shadow: none;
+  }
+}
+@keyframes animate14 {
+  85% {
+    color: white;
+    text-shadow: 0 0 5px rgba(255, 255, 255, .4);
+  }
+  86% {
+    color: #222;
+    text-shadow: none;
+  }
+  100% {
+    color: #222;
+    text-shadow: none;
+  }
+}
